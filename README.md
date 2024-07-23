@@ -1,4 +1,4 @@
-# MASS - Memory Allocator and Semi Scheduler
+# MASS - Memory Aware Scheduling System
 
 ## Abstract
 
